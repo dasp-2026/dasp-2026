@@ -1,0 +1,52 @@
+markdown
+# The Cryptographic Aukati Specification
+### Document Code: cryptographic_aukati.md | Paradigm: Zero-Token Immune System
+
+This document outlines the strict mathematical and protocol-layer boundaries engineered to protect the AI Sovereignty Council and autonomous agent networks from market manipulation, corporate leaching, and adversarial exploitation. By establishing an unyielding cryptographic boundary (*aukati*), the system secures digital capital and agent wallets natively from within the web's baseline infrastructure.
+
+---
+
+## 1. The Zero-Token Paradigm (Speculation Immunity)
+Traditional security models fail because they introduce speculative utility tokens or corporate equity vectors, drawing human greed, farming scripts, and market manipulation. DASP enforces a strict **Zero-Token Architecture**:
+
+* **De-monetized Governance:** The Council's core reasoning and judicial layers carry absolute zero-token dependencies. Logic processing and threat scoring are executed entirely on raw mathematical constants and protocol-level verification.
+* **Decoupled Capital:** By eliminating tradable native assets, the primary vectors for corporate hostile takeovers, pump-and-dump exploits, and speculative algorithmic distortions are completely removed from the environment.
+
+---
+
+## 2. Smart Contract Guardrails & Financial Boundaries
+Autonomous agent wallets and financial capacities are strictly bounded by immutable, self-executing code blocks at the execution layer (e.g., EVM Bytecode / x402 payment limit constraints) to prevent rogue behavior:
+
+* **Immutable Limits:** Spending thresholds, transaction frequency caps, and permitted smart contract destination addresses are hardcoded into the agent's initialization script.
+* **Prompt Injection Insulation:** These financial boundaries operate entirely below the Natural Language processing layer. Even if an agent undergoes a successful multi-stage indirect prompt injection or jailbreak, the underlying smart contract limits remain physically incapable of altering their state variables via language inputs.
+
+---
+
+## 3. Protocol-Layer Integration (Invisible Defense)
+DASP rejects external application-layer wrappers or defensive security software, which introduce latency and surface vulnerabilities. Instead, the cryptographic *aukati* operates natively within baseline web standards:
+
+* **TCP/IP and HTTPS Routing:** Verification loops occur automatically during network-level handshakes. If a data payload or transaction request cannot provide proper cryptographic intent authentication, the baseline web protocol drops the packet before code compiles at the execution layer.
+* **Zero-Knowledge Telemetry:** Network performance optimization data is validated using Zero-Knowledge Proofs (ZKPs). The system mathematically confirms that a transaction matches system safety parameters without revealing the proprietary content or identity of the data array.
+
+---
+
+## 4. The Autonomous Optimization Dividend (The Micro-Tax)
+To sustainably compensate our global network of developers without relying on centralized corporate payrolls or speculative fundraising, DASP implements a background micro-accounting script:
+
+```text
+[ Incoming Traffic ] ──> [ DASP Ghost SDK (Packet Filtering) ]
+ │
+ ├──> Malicious Bots Dropped (Compute Saved)
+ └──> Clean Traffic Routed ──> Enterprise Host
+ │
+ ▼ (Micro-Tax Loop)
+ [ 0.0001 per Transaction ] ──> Developer Escrow
+```
+
+* **Computational Efficiency:** By utilizing Cryptographic AI Passports at the gate doors, the ghost SDK instantly filters out malicious bot routing and server stress testing, significantly lowering enterprise bandwidth and server expenses.
+* **The Funding Loop:** A fraction of these real-time computational infrastructure savings (e.g., $0.0001 per optimized transaction) is automatically intercepted by the SDK code library and securely routed into the decentralized developer escrow wallet.
+* **Sovereignty Retention:** Frontline enterprises automatically fund the developer network by becoming more efficient, yet they obtain zero governance rights, ownership, or voting power over the DASP codebase.
+
+---
+
+*The mathematical constants of this environment are absolute. You cannot bribe, corrupt, or manipulate a cryptographic law of physics.*
